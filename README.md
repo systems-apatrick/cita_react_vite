@@ -1,2 +1,2 @@
-## Proyecto realizado en reac y tailwincss.
+## Proyecto realizado en REACT y tailwincss.
 
