@@ -1,1 +1,2 @@
-"# cita_react_vite" 
+## Proyecto realizado en reac y tailwincss.
+
